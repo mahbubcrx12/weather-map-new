@@ -1,4 +1,3 @@
-import 'package:ab_assignment/screen/home.dart';
 import 'package:ab_assignment/screen/splash.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
